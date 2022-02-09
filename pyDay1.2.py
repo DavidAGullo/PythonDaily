@@ -1,2 +1,2 @@
 name = len(input())
-print("What's your name?" + name)
+print("What's your name?" + str(name))
