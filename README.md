@@ -8,4 +8,6 @@ Just a public repo for day 1 - 100 of Programming in python
 - pyDay3.py - Program: Its a choose your own adventure story game
 - pyDay4.py - Program: Rock Paper Scissors
 - pyDay4.2.py - Program: Heads or Tails Generator (RNG system)
+- pyDay5.py - Program: Password Generator
+- pyDay5.2.py - Program: Calculates average of student heights
 - pyDayWorkSheet.py - Scratch Sheet
