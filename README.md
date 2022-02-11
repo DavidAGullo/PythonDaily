@@ -6,4 +6,5 @@ Just a public repo for day 1 - 100 of Programming in python
 - pyDay1.2.py - Program: Whats your name; outputs length of name 
 - pyDay2.py - Program: Tax Calculator, and how much if split
 - pyDay3.py - Program: Its a choose your own adventure story game
+- pyDay4.2.py - Program: Heads or Tails Generator (RNG system)
 - pyDayWorkSheet.py - Scratch Sheet
